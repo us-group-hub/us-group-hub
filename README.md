@@ -9,10 +9,14 @@ Each repository below documents strictly public capabilities, schemas, and open 
 
 | Repository | Product Track | Public Capabilities & Open Assets |
 |---|---|---|
-| [`xbyt-merchant-sdk`](https://github.com/us-group-hub/xbyt-merchant-sdk) | Web3 Payments, Token Launchpad, P2P & Games | Non-custodial TRON/TON Merchant API (OpenAPI 3.1 + PHP/Node.js/Python SDKs), token launch & listing specs, P2P trading flow, interactive Web3 game hub |
-| [`usc-news-open-tools`](https://github.com/us-group-hub/usc-news-open-tools) | Five-Eyes Tech/Finance Media & Benchmarks | 2026 LLM API vs. GPU TCO model, Five-Eyes housing datasets, Author Profile & Subscriptions ecosystem, `/u/` contributor rewards overview, RSS & News Sitemap specs |
-| [`uss-eu-transatlantic-tools`](https://github.com/us-group-hub/uss-eu-transatlantic-tools) | US ↔ EU Business Directory & Tax Tools | Transatlantic B2B Business Directory (10 verticals + zero-JS Verified Badge), 27-country 2026 EU VAT/OSS dataset, US–EU entity matrix, Author Hub & `/u/` rewards |
-| [`uastend-open-tools`](https://github.com/us-group-hub/uastend-open-tools) | RU/UK Tech/Career Hub & Open Tools | 2026 freelance tax dataset (UA/GE/KZ/PL/DE), starter AI prompts, Author Profiles & Subscriptions, `/u/` contributor monetization, Google News (`ru`/`uk`) & Dzen RSS specs |
+| [`xbyt-tron-ton-dex-kit`](https://github.com/us-group-hub/xbyt-tron-ton-dex-kit) | Pure-JS TRON & TON DEX Engine | Zero-`TronWeb` pure-JS SunSwap V2 signer (`secp256k1`), TON STON.fi v1+v2 TEP-74 builder, Wilder TA, AMM Net-Edge risk engine, AES-256-GCM vault + [Live Calculator](https://us-group-hub.github.io/xbyt-tron-ton-dex-kit/) |
+| [`xbyt-merchant-sdk`](https://github.com/us-group-hub/xbyt-merchant-sdk) | Web3 Payments, Token Launchpad, P2P & Games | Non-custodial TRON/TON Merchant API (OpenAPI 3.1 + PHP/Node.js/Python SDKs), DEX Quote/OHLCV API + [Developer Playground](https://us-group-hub.github.io/xbyt-merchant-sdk/) |
+| [`xbyt-merchant-wordpress`](https://github.com/us-group-hub/xbyt-merchant-wordpress) | WordPress / WooCommerce Web3 Gateway | Non-custodial TRON TRC-20 & TON Jetton payment & payout plugin for WooCommerce, myCred, Directorist & WPUF |
+| [`wp-site-mail-console`](https://github.com/us-group-hub/wp-site-mail-console) | Open-Source WordPress Utility | Single-file lightweight Brevo REST API v3 `pre_wp_mail` transport (replaces bloated SMTP plugins) + HMAC-verified WP Admin Inbox |
+| [`cloudflare-email-webhook-router`](https://github.com/us-group-hub/cloudflare-email-webhook-router) | Open-Source Cloudflare Edge Utility | Zero-dependency Cloudflare Email Worker with full RFC-2822/MIME parser & per-domain HMAC-SHA256 webhook routing |
+| [`usc-news-open-tools`](https://github.com/us-group-hub/usc-news-open-tools) | Five-Eyes Tech/Finance Media & Benchmarks | 2026 AI Coding Agents & LLM/GPU TCO benchmarks, Five-Eyes housing datasets, Author Hub `/u/` + [GitHub Pages](https://us-group-hub.github.io/usc-news-open-tools/) |
+| [`uss-eu-transatlantic-tools`](https://github.com/us-group-hub/uss-eu-transatlantic-tools) | US ↔ EU Business Directory & Compliance | EU AI Act (2026) compliance checker, 27-country EU VAT/OSS dataset, US–EU matrix, B2B Directory + [GitHub Pages](https://us-group-hub.github.io/uss-eu-transatlantic-tools/) |
+| [`uastend-open-tools`](https://github.com/us-group-hub/uastend-open-tools) | RU/UK Tech/Career Hub & Open Tools | 2026 AI Subscriptions ROI calculator, freelance tax dataset (UA/GE/KZ/PL/DE), AI prompts + [GitHub Pages](https://us-group-hub.github.io/uastend-open-tools/) |
 
 ## Open Engineering Principles
 
